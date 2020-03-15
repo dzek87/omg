@@ -1,7 +1,9 @@
 from tkinter import *
+size = 3
 
 x = [1,2]
 y = [1,2]
+a = False
 
 def test(event):
     global x
